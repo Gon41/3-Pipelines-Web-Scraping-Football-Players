@@ -1,19 +1,22 @@
-Proyecto Pipelines
+# Proyecto Pipelines
+
+![Optional Text](../Proyecto-Pipelines/Images/webscraping.jpeg)
+
+-----------------------------
+## 1. Objetive
+
+Example of web-scraping applied to a real topic.
 
 -----------------------------
 
-El presente proyecto intenta ser un ejemplo de web-scraping aplicado a un tema real.
+## 2. Hypothesis
+
+The soccer players who have the highest score in the FIFA rankinG are the ones who have the highest
 
 -----------------------------
 
-Hipótesis:
+## 3. Methodology
 
-Los futbolistas que mayor puntuación tienen en el rankinG FIFA son los que poseen mayor
+After searching and selecting a DB from the *kaggle.com* page I proceeded to clean the database in the *cleaning_1* and *cleaning_2* file and make a simple analysis of the results.
 
------------------------------
-
-Metodología:
-
-Después de buscar y seleccionar una BBDD de la página *kaggle.com* he procedido a limpiar la base de datos en el archivo *cleaning_1* y *cleaning_2* y hacer una análisis simple de los resultados.
-
-El paso posterior ha sido hacer web scraping de una página de internet y añadir los datos a mi dataFrame trabajado.
+The next step has been to do web scraping of a web page and add the data to my worked dataFrame.
