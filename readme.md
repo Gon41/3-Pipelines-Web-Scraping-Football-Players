@@ -11,7 +11,7 @@ Example of web-scraping applied to a real topic.
 
 ## 2. Hypothesis
 
-The soccer players who have the highest score in the FIFA rankinG are the ones who have the highest
+The soccer players who have the highest score in the FIFA ranking are the ones who have the highest
 
 -----------------------------
 
