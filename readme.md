@@ -1,6 +1,5 @@
 # Proyecto Pipelines
 
-![Optional Text](../Proyecto-Pipelines/Images/webscraping.jpeg)
 ![](https://www.antevenio.com/wp-content/uploads/2019/03/web.jpeg)
 
 -----------------------------
